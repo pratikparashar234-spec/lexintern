@@ -1,0 +1,15 @@
+{
+  "name": "lexintern",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "LexIntern - Law internship and opportunity aggregator for India.",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "sync": "node scripts/sync-jobs.js",
+    "alerts": "node scripts/dispatch-alerts.js",
+    "webhook": "node scripts/register-webhook.js",
+    "test": "node --test"
+  }
+}
