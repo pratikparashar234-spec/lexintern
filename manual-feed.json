@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Remote Legal Research Intern",
+    "company": "Policy Grid",
+    "location": "Remote / India",
+    "stipend": "7000",
+    "deadline": "2026-05-22",
+    "link": "https://example.com/policy-grid-remote-intern",
+    "source": "manual-curation",
+    "summary": "Student-curated lead from a trusted Telegram group."
+  },
+  {
+    "title": "Tech Policy & Data Privacy Intern",
+    "company": "DataLex India",
+    "location": "Bengaluru, Karnataka",
+    "stipend": "12000",
+    "deadline": "2026-05-19",
+    "link": "https://example.com/datalex-privacy-intern",
+    "source": "manual-curation",
+    "summary": "Curated lead for technology, IP, and privacy-focused law students."
+  }
+]

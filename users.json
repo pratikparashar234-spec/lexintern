@@ -1,0 +1,23 @@
+[
+  {
+    "id": "user_demo_premium",
+    "name": "Aarav Kapoor",
+    "email": "aarav@example.com",
+    "telegram_handle": "aaravlaw",
+    "chat_id": "",
+    "tier": "premium",
+    "tags": ["premium", "priority-alerts"],
+    "paid_until": "2026-05-28T00:00:00.000Z",
+    "created_at": "2026-04-20T00:00:00.000Z"
+  },
+  {
+    "id": "user_demo_free",
+    "name": "Isha Sharma",
+    "email": "isha@example.com",
+    "telegram_handle": "ishalawstudent",
+    "chat_id": "",
+    "tier": "free",
+    "tags": ["free"],
+    "created_at": "2026-04-22T00:00:00.000Z"
+  }
+]
